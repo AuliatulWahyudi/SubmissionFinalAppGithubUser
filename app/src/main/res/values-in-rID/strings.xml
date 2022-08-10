@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Submission3BBFA (Yudi)</string>
+    <string name="user">Pengguna</string>
+    <string name="name">Nama</string>
+    <string name="search">Cari</string>
+    <string name="username">Pengguna</string>
+    <string name="isi_username">nama pengguna</string>
+    <string name="isi_nama">nama</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="content_follower_fragment">Ini Fragment Follower</string>
+    <string name="content_fragment_following">Ini Fragment Following</string>
+    <string name="title_follower">Pengikut</string>
+    <string name="title_following">Mengikuti</string>
+    <string name="username_follower">Nama Pengguna Pengikut</string>
+    <string name="username_following">Nama Pengguna Mengikuti</string>
+    <string name="colon">:</string>
+    <string name="progress">Harap Tunggu ...</string>
+    <string name="search_user">Cari Pengguna Github</string>
+    <string name="location">Lokasi</string>
+    <string name="isi_location">isi lokasi</string>
+    <string name="change_language_setting">Ubah Bahasa</string>
+    <string name="about_me">Tentang Saya</string>
+    <string name="detail_user">Detail Pengguna</string>
+    <string name="about">Halaman Tentang</string>
+    <string name="fav">Favorit</string>
+    <string name="settings">Pengaturan</string>
+    <string name="theme">Ubah Tema</string>
+    <string name="dark_mode">Mode Gelap</string>
+
+
+    <string name="fav_success_add">Berhasil ditambahkan ke favorit!</string>
+    <string name="empty_favorite">Belum ada favorit ditambahkan</string>
+    <string name="alert_delete">Hapus</string>
+    <string name="confirm_delete">Hapus dari favorit?</string>
+    <string name="delete_success">Dihapus dari favorit</string>
+
+    <string name="yes">Ya</string>
+    <string name="no">Tidak</string>
+    <string name="user_not_found">Pengguna Tidak Ditemukan</string>
+    <string name="delete">Hapus</string>
+    <string name="change_theme">Ubah Tema</string>
+
+</resources>

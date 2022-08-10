@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Submission3BBFA (Yudi)</string>
+
+    <string name="user">User</string>
+    <string name="name">Name</string>
+    <string name="search">Search</string>
+    <string name="username">Username</string>
+    <string name="isi_username">username</string>
+    <string name="isi_nama">name</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="content_follower_fragment">Ini Fragment Follower</string>
+    <string name="content_fragment_following">Ini Fragment Following</string>
+    <string name="title_follower">Follower</string>
+    <string name="title_following">Following</string>
+    <string name="username_follower">username follower</string>
+    <string name="username_following">username following</string>
+    <string name="colon">:</string>
+    <string name="progress">Wait ...</string>
+    <string name="search_user">Search User Github</string>
+    <string name="location">Location</string>
+    <string name="isi_location">Location fill</string>
+    <string name="change_language_setting">Change Language</string>
+    <string name="about_me">About Me</string>
+    <string name="detail_user">Detail User</string>
+    <string name="about">About</string>
+    <string name="fav">Favorite</string>
+    <string name="settings">Setting</string>
+    <string name="theme">Change Theme</string>
+    <string name="dark_mode">Dark Mode</string>
+
+    <string name="fav_success_add">Successfully add to favorite!</string>
+    <string name="empty_favorite">There are no favorites added yet</string>
+    <string name="alert_delete">Delete</string>
+    <string name="confirm_delete">Delete from favorite?</string>
+    <string name="delete_success">Deleted from favorite</string>
+
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="user_not_found">User Not Found</string>
+    <string name="delete">Delete</string>
+    <string name="change_theme">Change Theme</string>
+</resources>
